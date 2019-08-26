@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e900089-2d1f-4892-83ba-aa6c750d7e9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution/Solution2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +80,7 @@
       <updated>1566553763418</updated>
       <workItem from="1566553765116" duration="7302000" />
       <workItem from="1566747850918" duration="388000" />
-      <workItem from="1566748286213" duration="1373000" />
+      <workItem from="1566748286213" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="[add]新增一种解法">
       <created>1566747554683</created>
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566747554684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[add]题2的解法">
+      <created>1566785476210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566785476210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="[add]新增一种解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]新增一种解法" />
+    <MESSAGE value="[add]题2的解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]题2的解法" />
   </component>
 </project>
